@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyBanBida", "PlayerUI\QuanLyBanBida.csproj", "{B265B459-B4B6-44BC-BDB1-B401C58DC48F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{FF526BC3-42C8-4971-8721-6731566615BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B265B459-B4B6-44BC-BDB1-B401C58DC48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B265B459-B4B6-44BC-BDB1-B401C58DC48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B265B459-B4B6-44BC-BDB1-B401C58DC48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B265B459-B4B6-44BC-BDB1-B401C58DC48F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF526BC3-42C8-4971-8721-6731566615BF}.Debug|Any CPU.ActiveCfg = Debug
+		{FF526BC3-42C8-4971-8721-6731566615BF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {662EB680-5049-4A21-B577-19490F2F9FA4}
+	EndGlobalSection
+EndGlobal

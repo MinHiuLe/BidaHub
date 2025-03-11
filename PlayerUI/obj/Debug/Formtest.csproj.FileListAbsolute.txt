@@ -1,0 +1,32 @@
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Formtest.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Formtest.csproj.SuggestedBindingRedirects.cache
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form5.resources
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form6.resources
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Formtest.csproj.GenerateResource.cache
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Formtest.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+D:\ĐỒ ÁN\Modern-Media-Player-UI-C-Sharp-master\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\DoAn(Final)\Testform\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\DoAn(Final)\Testform\PlayerUI\bin\Debug\PlayerUI.exe
+D:\DoAn(Final)\Testform\PlayerUI\bin\Debug\PlayerUI.pdb
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\Formtest.csproj.AssemblyReference.cache
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\Formtest.csproj.SuggestedBindingRedirects.cache
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\PlayerUI.Form4.resources
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\PlayerUI.Form5.resources
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\PlayerUI.Form6.resources
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\Formtest.csproj.GenerateResource.cache
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\Formtest.csproj.CoreCompileInputs.cache
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\PlayerUI.exe
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\PlayerUI.f_AdminBill.resources
